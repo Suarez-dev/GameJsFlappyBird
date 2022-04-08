@@ -1,3 +1,3 @@
 # GameJsFlappyBird
 Practicing javascript
-https://xein-dev.github.io/GameJsFlappyBird/
+https://Suarez-dev.github.io/GameJsFlappyBird/
